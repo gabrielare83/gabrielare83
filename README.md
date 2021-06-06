@@ -4,8 +4,8 @@
 
 
 <div align='center'>
-  <p>I'm <strong>Carlos</strong>, a Software <b>Developer / Home Brewer / Musician</b> interested in creating clean and inspiring code solving daily challenges.</p>
-  <p>Let's code!. Send me a message: <br> <a href="mailto:hello@carlosrobles.tech">Here!</a></p>
+  <p>I'm <strong>Gabriela</strong>, a Front-end <b>Developer / Home Brewer / Musician</b> interested in creating clean and inspiring code solving daily challenges.</p>
+  <p>Let's code!. Send me a message: <br> <a href="mail to:paularodest3@gmail.com">Here!</a></p>
   <p>My daily routine starts with a cup of coffee!</p>
 
 </div>
@@ -19,18 +19,8 @@
 <br>
 
 <div align='center'>
-  <a href='http://www.carlosrobles.tech' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=Website&message=carlosrobles.tech&color=black&style=flat-square&logo=google-chrome' />
-  </a>
-  <a href='https://www.linkedin.com/in/carlos-ssh' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=LinkedIn&message=CarlosFlores&color=black&style=flat-square&logo=linkedin' />
-  </a>
-  <a href='https://www.hackerrank.com/carlos_anezeh' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=Hackerrank&message=CharlyBrew&color=black&style=flat-square&logo=hackerrank' />
-  </a>
-  <a href='https://instagram.com/_aom.r' target='_blank' rel='noopener' rel='noreferrer'>
-    <img src='https://img.shields.io/static/v1?label=Instagram&message=Carlos&color=black&style=flat-square&logo=instagram' />
-  </a>
+  
+
 
 </div>
 
@@ -158,11 +148,11 @@
 
 ![bottom doodle](resources/me.gif)
 
-![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=carlos-ssh&show_icons=true&theme=radical)
-![Carlos's github](https://github-readme-stats.vercel.app/api/top-langs/?username=carlos-ssh&layout=compact&theme=tokyonight)
+![Carlos's github stats](https://github-readme-stats.vercel.app/api?username=gabrielare83&show_icons=true&theme=radical)
+![Carlos's github](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielare83&layout=compact&theme=tokyonight)
 
 </div>
 
 
-![Views](https://komarev.com/ghpvc/?username=carlos-ssh)
+![Views](https://komarev.com/ghpvc/?username=gabrielare83)
 
